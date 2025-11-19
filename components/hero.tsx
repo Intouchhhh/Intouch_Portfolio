@@ -54,7 +54,7 @@ export function Hero() {
               <span className="sr-only">LinkedIn</span>
             </a>
             <a
-              href="mailto:contact@example.com"
+              href="mailto:act22117@gmail.com"
               className="text-muted-foreground hover:text-foreground transition-colors"
             >
               <Mail className="w-5 h-5" />
