@@ -71,7 +71,7 @@ export const projects: Project[] = [
   {
     id: "AAIA",
     title: "ADAPTIVE ARTIFICIAL INTELLIGENCE AGENT IN GAMEDEVELOPMENT",
-    description: "Competitive space shooter with realistic physics and team-based tactical gameplay",
+    description: "Developed a reinforcement learning-based AI agent in Unity capable of navigating 2D platformer environments with actions like walking, jumping, and dashing.",
     image: "/AAIA.png",
     tags: ["Unity", "C#", "ML", "Training level designer", "Unity programmer","Research"],
     githubUrl: "https://github.com/Intouchhhh/AAIA",
